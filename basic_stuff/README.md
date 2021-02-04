@@ -1,6 +1,7 @@
-To run the experiments, 
+# To run the experiments,
 
--- pip install streamlit
--- install all the required dependencies
--- Run by executing:
-    streamlit run filename.py
+
+> 1. pip install streamlit
+> 2. Install all the required dependencies listed in the respective files
+> 3. Run by executing:
+> 4. Type streamlit run filename.py to display the web app.
